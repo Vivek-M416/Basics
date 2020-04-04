@@ -21,8 +21,13 @@
   </component>
   <component name="ProjectId" id="1VKFdfuy0QApC4ARsJoDzyxZbcE" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Array/array9.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project3" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vivek\Basic Programs\Oops\Classes Objaects" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -36,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.nparray4">
+  <component name="RunManager" selected="Python.array2">
     <configuration name="Basics" type="PythonConfigurationType" factoryName="Python">
       <module name="Basic Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="array10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="array1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Basic Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/array10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/array1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="nparray1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="array2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Basic Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +96,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/nparray1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/array2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="nparray2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="array3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Basic Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,7 +117,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/nparray2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/array3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="nparray3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="class1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Basic Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Oops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/nparray3.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\vivek\Basic Programs\Oops\Classes Objaects\class1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="nparray4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="class2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Basic Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Oops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/nparray4.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\vivek\Basic Programs\Oops\Classes Objaects\class2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,19 +170,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Basics" />
-      <item itemvalue="Python.array10" />
-      <item itemvalue="Python.nparray1" />
-      <item itemvalue="Python.nparray2" />
-      <item itemvalue="Python.nparray3" />
-      <item itemvalue="Python.nparray4" />
+      <item itemvalue="Python.class1" />
+      <item itemvalue="Python.class2" />
+      <item itemvalue="Python.array1" />
+      <item itemvalue="Python.array2" />
+      <item itemvalue="Python.array3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.nparray4" />
-        <item itemvalue="Python.nparray3" />
-        <item itemvalue="Python.nparray2" />
-        <item itemvalue="Python.nparray1" />
-        <item itemvalue="Python.array10" />
+        <item itemvalue="Python.array2" />
+        <item itemvalue="Python.array1" />
+        <item itemvalue="Python.array3" />
+        <item itemvalue="Python.class2" />
+        <item itemvalue="Python.class1" />
       </list>
     </recent_temporary>
   </component>
